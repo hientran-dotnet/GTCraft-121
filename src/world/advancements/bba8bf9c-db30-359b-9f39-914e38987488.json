@@ -1,0 +1,31 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-26 15:07:01 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-07-26 15:07:16 +0700",
+      "minecraft:taiga": "2025-07-26 17:06:36 +0700",
+      "minecraft:meadow": "2025-07-26 17:06:42 +0700",
+      "minecraft:birch_forest": "2025-07-26 17:06:39 +0700",
+      "minecraft:plains": "2025-07-26 15:07:02 +0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-07-26 15:52:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-26 17:19:35 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
