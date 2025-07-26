@@ -1,4 +1,4 @@
-enable: 0
+enable: true
 slot: 20
 title: ''
 hidden: false
