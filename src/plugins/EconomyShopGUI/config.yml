@@ -52,7 +52,7 @@ language-file: lang-en.yml
 # Examples:
 # 'en-US' has a format of '#,##0.00'
 # 'nl-NL' has a format of '#.##0,00'
-locale: en-US
+locale: vi-VN
 # Note: This is not the locale at which messages will be translated, see the above option for that.
 # The locale is set in BCP 47 language tag.
 # See this website for some example BCP 47 language tag you can use: https://appmakers.dev/bcp-47-language-codes-list/
